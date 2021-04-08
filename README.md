@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jfmorozco
+- 👀 I’m interested in learning about new technologies
+- 🌱 I’m currently learning java springboot microservices
